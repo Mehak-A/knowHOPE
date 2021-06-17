@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">know_HOPE</string>
+
+    <string name="contact_us">CONTACT US</string>
+    <string name="name">Name</string>
+    <string name="email_hint">Email</string>
+    <string name="message_hint">Message</string>
+    <string name="email">connect@hopeeverywhere.in</string>
+    <string name="address"> E-249, New Minal Residency, Bhopal, Madhya Pradesh. India.</string>
+    <string name="phone">+91-9179047888</string>
+
+
+
 </resources>
