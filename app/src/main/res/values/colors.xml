@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--    DEFAULT COLORS      -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!--    BRAND COLORS  -->
+    <color name="brandBlue">#0F4C81</color>
+    <color name="brandOrange">#FF6F61</color>
+    <color name="brandBlack">#000</color>
+    <color name="brandWhite">#FFF</color>
+
+</resources>
